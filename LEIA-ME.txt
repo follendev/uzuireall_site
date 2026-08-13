@@ -1,0 +1,5 @@
+Abra o index.html no Chrome ou Edge.
+A musica ja esta em assets/musica.mp3.
+A foto do gato e o fundo do Homem-Aranha ja estao incluidos.
+Passe o mouse no card para ver o efeito 3D.
+Clique no botao ▶ para tocar a musica.
